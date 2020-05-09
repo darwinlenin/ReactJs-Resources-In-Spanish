@@ -1,4 +1,4 @@
-## Recursos para aprender ReactJS en español
+## Resources for learning ReactJS in Spanish
 
 > Colección de recursos para aprender [ReactJS](https://facebook.github.io/react/). Si tienes algun material no olvides enviar un pull requests, o un tuit [@jlobitu](https://twitter.com/jlobitu).
 
@@ -17,7 +17,7 @@
 
 > Biblioteca JavaScript para la construcción de interfaces de usuario
 
-### Sobre React
+### About React
 
 > [Documentacion de React.js en español](https://github.com/reactjs-hispano/react-es-docs)
 
@@ -41,7 +41,7 @@
 - [Introducción a ReactJS](http://vensign.com/introduccion-a-reactjs/)
 - [Interfaces gráficas con ReactJS](https://blog.5rabbits.com/interfaces-gr%C3%A1ficas-con-reactjs-2c43481a1c8d#.c7qjsimsv)
 
-### React Tutoriales
+### React Tutorials
 
 - [React, primera entrega.](http://codexsw.logdown.com/posts/297599-react)
 - [Comenzando con React](http://abalozz.es/comenzando-con-react/)
@@ -148,9 +148,9 @@
 - [Obteniendo datos en aplicaciones de Redux](https://medium.com/react-redux/obteniendo-datos-en-aplicaciones-de-redux-1007e8703521#.dhcoh22gs)
 - [Estado inmutable con Redux e Immutable.js](https://medium.com/react-redux/estado-inmutable-con-redux-e-immutable-js-5a3d69ef0451#.4d9dril5s)
 
-## Videos
+## Vídeos
 
-### Video Tutoriales
+### Vídeo Tutorials
 
 - [Introducción a ReactJS](https://youtu.be/J24MhTKWCug)
 - [ReactJS en #programadorIO](https://youtu.be/ejMEwNVoOT0)
@@ -178,7 +178,7 @@
 - [Redux para frontenders y no tan frontenders](https://youtu.be/SGun5d3L8gM)
 - [Introducción a React Hooks](https://www.youtube.com/watch?v=_FmQ9mlSUoQ)
 
-### Video Cursos
+### Vídeo Courses
 
 - [Jesus Conde - React.js](https://www.youtube.com/playlist?list=PLEtcGQaT56ci0QiNycpR8mXWeaXcZn5yA)
 - [Platzi - Curso: React.js](https://www.youtube.com/playlist?list=PLa28R7QEiMblX90sGz23mLhHq5X_JzSmi)
@@ -198,6 +198,6 @@
 - [Make it Real: Curso básico de React](https://www.youtube.com/playlist?list=PLxyfMWnjW2kssQROHucUJiRfW0FUhcVzN)
 - [Make it Real: Curso avanzado de React (Redux y Testing)](https://www.youtube.com/playlist?list=PLxyfMWnjW2kuyePV1Gzn5W_gr3BGIZq8G)
 
-## Libros
+## Books
 
 - [Descubre React - Javi Jimenez](https://leanpub.com/descubre-react)
