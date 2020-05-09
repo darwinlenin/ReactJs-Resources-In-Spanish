@@ -1,6 +1,6 @@
 ## Resources for learning ReactJS in Spanish
 
-> Colección de recursos para aprender [ReactJS](https://facebook.github.io/react/). Si tienes algun material no olvides enviar un pull requests, o un tuit [@darwinlenin](https://twitter.com/darwinlenin).
+> Colección de recursos para aprender [ReactJS](https://facebook.github.io/react/). Si tienes algun material no olvides enviar un pull requests, o un tuit [@darwinlenin](https://twitter.com/darwinlenin) o unirte a nuestro grupo de Discord [ZoeGeop](https://discord.gg/FjJ8Ggz)
 
 - [React](#react)
   - [Sobre React](#sobre-react)
